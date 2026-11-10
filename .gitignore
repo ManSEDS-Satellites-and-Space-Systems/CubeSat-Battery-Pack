@@ -1,0 +1,14 @@
+*/build
+*/mx.scratch
+*/!.settings
+*/!.vscode
+*/!.clangd
+hardware/production
+hardware/*-backups
+hardware/fabrication-toolkit-options.json
+hardware/*.kicad_sch-bak
+hardware/*.bak
+hardware/fp-info-cache
+hardware/*.kicad_prl
+software/target
+software/firmware.bin
