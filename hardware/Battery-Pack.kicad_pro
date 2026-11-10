@@ -236,6 +236,10 @@
           "drill": 0.2
         },
         {
+          "diameter": 0.4,
+          "drill": 0.3
+        },
+        {
           "diameter": 0.6,
           "drill": 0.3
         }
@@ -486,7 +490,7 @@
     ]
   },
   "meta": {
-    "filename": "EPS-PCB.kicad_pro",
+    "filename": "Battery-Pack.kicad_pro",
     "version": 3
   },
   "net_settings": {
